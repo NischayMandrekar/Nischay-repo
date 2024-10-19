@@ -1,2 +1,3 @@
 # Nischay-repo
-author-nischay
+author-nischay mandrekar
+
